@@ -1,0 +1,65 @@
+# Meeting notes
+
+## Project Ideas
+- Map for tourists
+  - Datasets
+    - Features of interest
+    - Routes to landmarks
+    - Bike data
+    - PTV data
+  - Wikipedia integration
+  - Targeting tourists, visitors
+  - Useful things within a radius - facilities
+- Australian Smart Cities + Aurecon
+  - Datasets
+    - Future Melbourne Social Indicators of Wellbeing
+    - Stuff from Data.vic.gov.au
+  - Dashboard
+- Data mashup
+  - Mashup and overlay two datasets
+  - Let users vote on whether or not there is a correlation between the two
+- Female / Male inhabitants vs bars
+  - Dating app
+- Apartment usage
+  - See apartment space usage based on water / electricity usage
+- Ratio of residents / employees in area over number of restaurants
+- Map bars vs kebab stands
+- Battle of the councils
+  - Number of toilets / art pieces / etc per council
+- Residential overlay / suburb profiler
+  - Datasets
+    - Places of interest
+    - Development activity monitor
+  - Predict future growth
+  - Allow user to toggle information relevant to them
+- Ride to work support page
+  - Information for cyclists
+  - Bike lanes / trails / share locations
+  - Bike crash / incident data
+  - Public toilets along routes
+  - Strava integration
+- Building explorer
+  - Allow user to browse buildings and see history
+  - CRUD app - allow users to post stories about a building
+- Landmark / Memorial / Places of interest game
+  - Datasets
+    - Places of interest
+  - Educational game for kids
+  - Show landmark, user guesses location, award points based on closeness to actual point
+  - Show relevant Wikipedia article for that memorial
+- Find a fight
+  - Datasets
+    - Crime rates
+    - Places of interest - bars
+    - Streetlights
+  - Visualization of most dangerous areas
+
+## Votes
+- Places of interest - 4
+- Residential overlay + future - 4
+- Ride to work support page - 4
+- Places of interest game - 2
+- Find a fight - 2
+- Smart cities - 0
+- Building data - 0
+  
